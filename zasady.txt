@@ -1,0 +1,24 @@
+Zasady gry w kulki:
+
+Cel gry:
+zdobyc jak nawiecej punktow w jak najmnijeszej liczbie ruchow
+
+Za co sa punkty:
+za ulozenie pieciu kulek tego samego koloru obok siebie w pionie lub poziomie lub ukosie
+
+Nowe kulki:
+w kazdym kolejnym ruchu pojawiaja sie trzy nowe losowe kulki (mozliwosc zmiany na 5 lub 10 kulek co runde)
+
+Jak przemieszczac kulki:
+nalezy wpisac wspolrzedne (najpierw pozioma, pozniej pionowa) pola z ktorego chcemy
+przesunac kulke, a nastepnie pola docelowego.
+UWAGA: kulki moga przesuwac sie jedynie po wolnych polach w pionie oraz poziomie.
+
+koniec gry:
+gra konczy sie gdy na planszy zostaje mniej niz 12 pustych pol
+
+tryb dwuosobowy:
+gracze wykonuja ruchy na zmiane, kazde usuniecie kulek jest przypisywane garczowi ktorego jest aktualnie kolej
+
+TIP:
+aby zakonczyc rozgrywke wczesniej i zapisac punkty należy wpisac "1313" jako wsporzedna pozioma skad.

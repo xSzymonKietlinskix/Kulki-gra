@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="gra">
+    <Position X="13.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAABAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gra.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gra_dwuosobowa">
+    <Position X="12" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>gra.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gracz">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAIAICAAAAAAAEBQAQAAABAAAgE=</HashCode>
+      <FileName>gracz.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kulka">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAACAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAAA=</HashCode>
+      <FileName>kulka.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="plansza">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAADAAAAAAAAAAQAAAAAAAAABQAAAAAAIAAAAQAAQ=</HashCode>
+      <FileName>plansza.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="plik">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACBAAAAIAAAAAAAAAAAACAAIAA=</HashCode>
+      <FileName>plik.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ruch">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAEEAAwAAAIAAAAAAAAAAAAIAAAAAAEAAIAAAAA=</HashCode>
+      <FileName>ruch.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="lista_ruchow">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAgAAQAAAEAAAAA=</HashCode>
+      <FileName>ruch.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

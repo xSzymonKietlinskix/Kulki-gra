@@ -1,0 +1,6 @@
+2022-05-22.17:46:58 Szymon usuniecia: 0 kolejki: 0 
+2022-05-22.17:48:50 Tryb Dwuosobowy Gracz 1: Pierwszy usuniecia: 0 Gracz 2: Drugi usuniecia: 0 kolejki: 5
+2022-06-07.00:19:44 Szymon usuniecia: 0 kolejki: 5 
+2022-06-07.08:37:21 Szymonek usuniecia: 1 kolejki: 9 
+2022-06-07.09:07:02 A usuniecia: 0 kolejki: 0 
+2022-06-07.09:49:29 Nie usuniecia: 3 kolejki: 25 
